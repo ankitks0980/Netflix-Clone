@@ -1,5 +1,5 @@
-# netflix-clone-using-html-and-css
-i have created netflix clone using html and css
+# Netflix-Clone-using-html-and-css
+I have created Netflix Clone using html and css
 
 
 
